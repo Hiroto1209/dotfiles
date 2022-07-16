@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hiroto.y.129@gmail.com
+	name = Hiroto Yoshimori
